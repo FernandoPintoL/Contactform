@@ -1,0 +1,18 @@
+{
+    "name": "fpl/administrador",
+    "description": "Componente para la administracion de usurios",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pinto Lino Fernando",
+            "email": "pintolinofernando@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fpl\\Administrador\\": "src/"
+        }
+}
